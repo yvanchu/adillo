@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Hello world",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Investment diligence made simple.",
+    "paragraph": "Empower retail investors with a simple, yet comprehensive, diligence tool to better inform investment decisions"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Close the Gap",
+      "text": "Our product bridges the gap between complex financial due diligence and retail investing by only displaying relevant metrics and data."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Time Saving",
+      "text": "Reduce time spent analyzing 10-Ks and 10-Qs and quickly get a snapshot of a business’ underlying performance."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Diverse Target Audience",
+      "text": "For beginner investors looking for a simple, yet powerful research tool or for seasoned professionals looking to make quick decisions on which securities to analyze further."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Proprietary Algorithm",
+      "text": "Algorithmic analysis of all publicly traded securities that provides an investment recommendation score out of 100."
     }
   ]
 }
